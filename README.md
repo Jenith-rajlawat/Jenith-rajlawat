@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Full Stack Library App Website**
 
 - 🌱 I’m currently learning **Spring Boot, Advanced Java**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jenithrajlawat@gmail.com**
 
-- ⚡ Fun fact **I am a guitarist with some passion on reading non-fictional books.**
+- ⚡ Fun fact **I am a guitarist with some passion for reading non-fictional books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
